@@ -1,1 +1,0 @@
-# Bimajnen.github.io
