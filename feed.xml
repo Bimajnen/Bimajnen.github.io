@@ -3,10 +3,33 @@
     <title>TakenTurf</title>
     <link href="https://takenturf.com/feed.xml" rel="self" />
     <link href="https://takenturf.com" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2025-06-22T22:06:57+01:00</updated>
     <author>
         <name>Benjamin</name>
     </author>
     <id>https://takenturf.com</id>
 
+    <entry>
+        <title>test </title>
+        <author>
+            <name>Benjamin</name>
+        </author>
+        <link href="https://takenturf.com/test/index.html"/>
+        <id>https://takenturf.com/test/index.html</id>
+
+        <updated>2025-06-22T22:06:57+01:00</updated>
+            <summary>
+                <![CDATA[
+                    blah blah blah
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    blah blah blah
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
